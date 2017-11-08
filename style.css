@@ -58,16 +58,22 @@ h1{
 }
 
 .tag-school{
+	text-align:left;
 	background-color:#21610B;
 	font-size:1.2em;
+	min-width:95%;
 }
 
 .tag-xp{
+	text-align:left;
 	background-color:#0B3861;
 	font-size:1.2em;
+	min-width:95%;
 }
 
 .tag-comp{
+	text-align:left;
 	background-color:#610B0B;
 	font-size:1.2em;
+	min-width:95%;
 }
