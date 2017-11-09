@@ -62,7 +62,7 @@ h1{
 	background-color:#21610B;
 	font-size:1.2em;
 	padding-bottom:2px;
-	min-width:95%;
+	display:block;
 }
 
 .tag-xp{
@@ -70,7 +70,7 @@ h1{
 	background-color:#0B3861;
 	font-size:1.2em;
 	padding-bottom:2px;
-	min-width:95%;
+	display:block;
 }
 
 .tag-comp{
@@ -78,5 +78,5 @@ h1{
 	background-color:#610B0B;
 	font-size:1.2em;
 	padding-bottom:2px;
-	min-width:95%;
+	display:block;
 }
